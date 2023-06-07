@@ -4,7 +4,7 @@ body {
     font-family: "myriad-variable",sans-serif;
 }
 header {
-    background-image: url("./image/bgimage.jpg");
+    background-image: url('./image/bgimage.jpg');
     background-position: bottom left;
 }
 .upper{

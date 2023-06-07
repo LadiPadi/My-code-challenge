@@ -62,7 +62,7 @@ footer{
 .ending{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    height: 150px;
+    height: 200px;
     width: auto;
     font-size: 15px;
 

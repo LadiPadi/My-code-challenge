@@ -31,7 +31,7 @@ main{
 }
 .mid{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     height: 200px;
     width: auto;
 }
